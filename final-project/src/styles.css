@@ -137,11 +137,6 @@
     box-shadow: 0 -0.5rem 0.75rem 0.5rem var(--light);
   }
   
-  @media (min-width: 660px) {
-    .total {
-      margin-top: 0;
-    }
-  }
   
   .total-title {
     margin: 0;
