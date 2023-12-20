@@ -29,6 +29,7 @@ const Checkout = ({ setShowCheckout }) => {
           <input type="text" value={address} onChange={(e) => setAddress(e.target.value)} />
         </label>
       </div>
+      <br />
       <div>
         <label>
           Email:
